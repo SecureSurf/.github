@@ -1,4 +1,5 @@
-![Open Source at Quantisys](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Open Source at Quantisys]( <img src="./images/open-at-Quantisys.png" alt="Girl in a jacket" width="500" height="600">
+ ) 
 
 ## Get Involved
 
