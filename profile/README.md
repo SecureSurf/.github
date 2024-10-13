@@ -1,5 +1,5 @@
-![Open Source at Quantisys]( <img src="./images/open-at-Quantisys.png" alt="Girl in a jacket" width="500" height="600">
- ) 
+![Open Source at Quantisys](./images/open-at-Quantisys.png)
+
 
 ## Get Involved
 
